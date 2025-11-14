@@ -1,0 +1,7403 @@
+{
+  "version": 2,
+  "weights": {
+    "core": 1.0,
+    "advanced": 1.0,
+    "precision": 1.0,
+    "context": 1.0,
+    "news": 1.0,
+    "analysis": 0.7386999999999999,
+    "backtest": 1.0963,
+    "forward_test": 0.5
+  },
+  "params": {
+    "atr_multiplier": 1.8,
+    "retest_sensitivity": 1.0,
+    "pattern_confidence_threshold": 0.95
+  },
+  "history": [
+    {
+      "pair": "EURUSDc",
+      "success": true,
+      "confidence": 1.0,
+      "source": "analysis",
+      "timestamp": "2025-10-24T14:20:48.345572"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": true,
+      "confidence": 0.0,
+      "source": "analysis",
+      "timestamp": "2025-10-24T14:25:21.351914"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": false,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-24T15:28:27.463431"
+    },
+    {
+      "pair": "GBPUSDc",
+      "success": false,
+      "confidence": 0.726,
+      "source": "analysis",
+      "timestamp": "2025-10-24T15:36:37.830968"
+    },
+    {
+      "pair": "GBPUSDc",
+      "success": false,
+      "confidence": 0.3,
+      "source": "analysis",
+      "timestamp": "2025-10-24T15:57:57.412486"
+    },
+    {
+      "pair": "EURJPYc",
+      "success": false,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-24T16:34:06.235138"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": true,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-24T16:37:11.876076"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": true,
+      "confidence": 0.3,
+      "source": "analysis",
+      "timestamp": "2025-10-24T17:02:20.248201"
+    },
+    {
+      "pair": "GBPUSDc",
+      "success": false,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-24T17:23:48.210220"
+    },
+    {
+      "pair": "GBPUSDc",
+      "success": false,
+      "confidence": 0.3,
+      "source": "analysis",
+      "timestamp": "2025-10-24T17:49:10.596960"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": false,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-24T19:38:54.019053"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": true,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-24T20:50:14.700216"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.3,
+      "source": "analysis",
+      "timestamp": "2025-10-24T21:19:20.107320"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.3,
+      "source": "analysis",
+      "timestamp": "2025-10-24T21:33:51.359096"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-25T08:32:11.245435"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-25T09:55:52.502482"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-25T10:10:47.517165"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-25T10:13:06.494618"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-25T11:09:39.974737"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-25T12:06:02.045680"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-25T12:40:21.455411"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.3,
+      "source": "analysis",
+      "timestamp": "2025-10-25T14:01:17.737271"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.3,
+      "source": "analysis",
+      "timestamp": "2025-10-25T14:04:03.220474"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": true,
+      "confidence": 0.3,
+      "source": "analysis",
+      "timestamp": "2025-10-25T15:03:58.502900"
+    },
+    {
+      "pair": "GBPUSDc",
+      "success": false,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-26T05:31:18.864871"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-26T05:37:30.576568"
+    },
+    {
+      "pair": "GBPUSDc",
+      "success": false,
+      "confidence": 0.3,
+      "source": "analysis",
+      "timestamp": "2025-10-26T06:27:12.684631"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.5,
+      "source": "analysis",
+      "timestamp": "2025-10-26T06:31:31.969011"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": true,
+      "confidence": 0.5563376566088586,
+      "source": "backtest",
+      "timestamp": "2025-10-26T07:39:57.447219"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": false,
+      "confidence": 0.2916,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T07:39:57.453561"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.5180558529322937,
+      "source": "backtest",
+      "timestamp": "2025-10-26T07:42:42.435020"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.6805,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T07:42:42.439321"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": false,
+      "confidence": 0.5049206747958204,
+      "source": "backtest",
+      "timestamp": "2025-10-26T08:33:09.228631"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": true,
+      "confidence": 0.7413,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T08:33:09.234776"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.5117727211637325,
+      "source": "backtest",
+      "timestamp": "2025-10-26T08:34:36.008962"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.6631,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T08:34:36.012768"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5290804235428607,
+      "source": "backtest",
+      "timestamp": "2025-10-26T08:42:52.996648"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5992,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T08:42:53.000645"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5290683838362534,
+      "source": "backtest",
+      "timestamp": "2025-10-26T08:48:54.925483"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.404,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T08:48:54.931118"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.5117919282861056,
+      "source": "backtest",
+      "timestamp": "2025-10-26T08:56:31.457117"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.6604,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T08:56:31.461600"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5324838525320067,
+      "source": "backtest",
+      "timestamp": "2025-10-26T09:07:33.375490"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T09:07:33.379846"
+    },
+    {
+      "pair": "AUDUSDc",
+      "success": false,
+      "confidence": 0.5087378551678691,
+      "source": "backtest",
+      "timestamp": "2025-10-26T09:10:35.785973"
+    },
+    {
+      "pair": "AUDUSDc",
+      "success": false,
+      "confidence": 0.3601,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T09:10:35.790063"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.5600274545409443,
+      "source": "backtest",
+      "timestamp": "2025-10-26T09:13:05.371255"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": false,
+      "confidence": 0.7615,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T09:13:05.375391"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5321018000994431,
+      "source": "backtest",
+      "timestamp": "2025-10-26T09:20:30.556991"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T09:20:30.561177"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.4945054000540939,
+      "source": "backtest",
+      "timestamp": "2025-10-26T09:23:37.409361"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T09:23:37.413733"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.4962368265608105,
+      "source": "backtest",
+      "timestamp": "2025-10-26T09:32:56.745714"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T09:32:56.750421"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.4989472966501645,
+      "source": "backtest",
+      "timestamp": "2025-10-26T09:33:51.039457"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.3537,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T09:33:51.044199"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.533573800214484,
+      "source": "backtest",
+      "timestamp": "2025-10-26T09:53:14.688764"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T09:53:14.693490"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5300002218401031,
+      "source": "backtest",
+      "timestamp": "2025-10-26T09:54:49.378398"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.3296,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T09:54:49.383782"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": true,
+      "confidence": 0.5479441512771626,
+      "source": "backtest",
+      "timestamp": "2025-10-26T10:03:16.391100"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": true,
+      "confidence": 0.6145,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T10:03:16.454301"
+    },
+    {
+      "pair": "EURNZDc",
+      "success": false,
+      "confidence": 0.45704253180032145,
+      "source": "backtest",
+      "timestamp": "2025-10-26T10:12:40.886164"
+    },
+    {
+      "pair": "EURNZDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T10:12:40.891050"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.532672551771604,
+      "source": "backtest",
+      "timestamp": "2025-10-26T11:13:23.663142"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T11:13:23.668539"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.5111640473381134,
+      "source": "backtest",
+      "timestamp": "2025-10-26T11:18:44.864024"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.3048,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T11:18:44.868872"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5365572835951947,
+      "source": "backtest",
+      "timestamp": "2025-10-26T11:19:55.147058"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.8456,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T11:19:55.152746"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.4905226004143236,
+      "source": "backtest",
+      "timestamp": "2025-10-26T11:23:02.439635"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T11:23:02.444688"
+    },
+    {
+      "pair": "AUDCADc",
+      "success": false,
+      "confidence": 0.4861390907690699,
+      "source": "backtest",
+      "timestamp": "2025-10-26T11:26:11.897528"
+    },
+    {
+      "pair": "AUDCADc",
+      "success": false,
+      "confidence": 0.8369,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T11:26:11.902476"
+    },
+    {
+      "pair": "EURCHFc",
+      "success": false,
+      "confidence": 0.47401972203662035,
+      "source": "backtest",
+      "timestamp": "2025-10-26T11:28:23.693848"
+    },
+    {
+      "pair": "EURCHFc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T11:28:23.699563"
+    },
+    {
+      "pair": "EURCHFc",
+      "success": false,
+      "confidence": 0.4600944587869508,
+      "source": "backtest",
+      "timestamp": "2025-10-26T11:30:47.758536"
+    },
+    {
+      "pair": "EURCHFc",
+      "success": false,
+      "confidence": 0.7267,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T11:30:47.763617"
+    },
+    {
+      "pair": "EURGBPc",
+      "success": false,
+      "confidence": 0.47438832765438554,
+      "source": "backtest",
+      "timestamp": "2025-10-26T11:34:14.413879"
+    },
+    {
+      "pair": "EURGBPc",
+      "success": true,
+      "confidence": 0.9187,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T11:34:14.418922"
+    },
+    {
+      "pair": "USDCADc",
+      "success": false,
+      "confidence": 0.48522470366662157,
+      "source": "backtest",
+      "timestamp": "2025-10-26T11:40:26.981609"
+    },
+    {
+      "pair": "USDCADc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T11:40:26.986816"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.5074818218580198,
+      "source": "backtest",
+      "timestamp": "2025-10-26T13:50:36.004299"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.9394,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T13:50:36.013777"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.5119796199808008,
+      "source": "backtest",
+      "timestamp": "2025-10-26T14:05:54.125417"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T14:05:54.131036"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5464003397397403,
+      "source": "backtest",
+      "timestamp": "2025-10-26T14:06:40.909791"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T14:06:40.915356"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.512036957158417,
+      "source": "backtest",
+      "timestamp": "2025-10-26T14:08:56.546375"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T14:08:56.551906"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5535860851580794,
+      "source": "backtest",
+      "timestamp": "2025-10-26T14:10:46.775779"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T14:10:46.781324"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5535825264279663,
+      "source": "backtest",
+      "timestamp": "2025-10-26T14:13:53.382705"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T14:13:53.389243"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5567066221372762,
+      "source": "backtest",
+      "timestamp": "2025-10-26T17:42:55.763308"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T17:42:55.773390"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5262100381945936,
+      "source": "backtest",
+      "timestamp": "2025-10-26T17:55:49.175271"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T17:55:49.181339"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.5120101258807445,
+      "source": "backtest",
+      "timestamp": "2025-10-26T18:09:18.153321"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T18:09:18.159793"
+    },
+    {
+      "pair": "GBPUSDc",
+      "success": false,
+      "confidence": 0.5047635988287626,
+      "source": "backtest",
+      "timestamp": "2025-10-26T21:54:54.635552"
+    },
+    {
+      "pair": "GBPUSDc",
+      "success": false,
+      "confidence": 0.2935,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T21:54:54.641273"
+    },
+    {
+      "pair": "GBPUSDc",
+      "success": false,
+      "confidence": 0.4658980890355996,
+      "source": "backtest",
+      "timestamp": "2025-10-26T21:55:43.017010"
+    },
+    {
+      "pair": "GBPUSDc",
+      "success": true,
+      "confidence": 0.9133,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T21:55:43.022726"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": true,
+      "confidence": 0.5390954432930687,
+      "source": "backtest",
+      "timestamp": "2025-10-26T21:58:24.005389"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": true,
+      "confidence": 0.8878,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T21:58:24.011566"
+    },
+    {
+      "pair": "AUDCADc",
+      "success": false,
+      "confidence": 0.4857028328451543,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:01:18.298909"
+    },
+    {
+      "pair": "AUDCADc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:01:18.305166"
+    },
+    {
+      "pair": "EURGBPc",
+      "success": false,
+      "confidence": 0.48428538657006814,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:02:57.493525"
+    },
+    {
+      "pair": "EURGBPc",
+      "success": true,
+      "confidence": 0.8876,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:02:57.500491"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.5515268514271864,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:04:49.154425"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": false,
+      "confidence": 0.8845,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:04:49.160935"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.5882745174512943,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:06:13.314239"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": false,
+      "confidence": 0.7291,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:06:13.320777"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": true,
+      "confidence": 0.5621861774078009,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:08:11.426722"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": false,
+      "confidence": 0.2697,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:08:11.433035"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": false,
+      "confidence": 0.48517357221976626,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:08:47.927528"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": false,
+      "confidence": 0.3637,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:08:47.933405"
+    },
+    {
+      "pair": "GBPNZDc",
+      "success": true,
+      "confidence": 0.5320744684981275,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:09:35.177718"
+    },
+    {
+      "pair": "GBPNZDc",
+      "success": false,
+      "confidence": 0.8768,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:09:35.184288"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.5631662696115097,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:10:34.706030"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": false,
+      "confidence": 0.8561,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:10:34.712462"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.5050798109541743,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:11:41.386006"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.3981,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:11:41.392138"
+    },
+    {
+      "pair": "AUDNZDc",
+      "success": false,
+      "confidence": 0.48081636003207373,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:13:38.138792"
+    },
+    {
+      "pair": "AUDNZDc",
+      "success": false,
+      "confidence": 0.519,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:13:38.145097"
+    },
+    {
+      "pair": "GBPJPYc",
+      "success": false,
+      "confidence": 0.4792474350400289,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:15:44.984188"
+    },
+    {
+      "pair": "GBPJPYc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:15:44.990774"
+    },
+    {
+      "pair": "USDJPYc",
+      "success": false,
+      "confidence": 0.49101391249155824,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:16:46.141467"
+    },
+    {
+      "pair": "USDJPYc",
+      "success": false,
+      "confidence": 0.3138,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:16:46.147866"
+    },
+    {
+      "pair": "GBPCADc",
+      "success": false,
+      "confidence": 0.47962070408494983,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:17:54.543795"
+    },
+    {
+      "pair": "GBPCADc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:17:54.550441"
+    },
+    {
+      "pair": "AUDUSDc",
+      "success": false,
+      "confidence": 0.5186061158580428,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:21:00.701470"
+    },
+    {
+      "pair": "AUDUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:21:00.708539"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.560128116245782,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:22:37.130567"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": false,
+      "confidence": 0.8428,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:22:37.137303"
+    },
+    {
+      "pair": "EURAUDc",
+      "success": false,
+      "confidence": 0.46955050108067237,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:23:42.432962"
+    },
+    {
+      "pair": "EURAUDc",
+      "success": false,
+      "confidence": 0.9665,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:23:42.439495"
+    },
+    {
+      "pair": "EURCADc",
+      "success": true,
+      "confidence": 0.5216704893327063,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:24:26.114486"
+    },
+    {
+      "pair": "EURCADc",
+      "success": false,
+      "confidence": 0.4439,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:24:26.121521"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.5304179682450312,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:26:54.113676"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": false,
+      "confidence": 0.2991,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:26:54.120783"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.5393998064733735,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:27:53.977032"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.6556,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:27:53.983884"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.5600984281040096,
+      "source": "backtest",
+      "timestamp": "2025-10-26T22:54:46.477310"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.8177,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T22:54:46.484600"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.5602278895273218,
+      "source": "backtest",
+      "timestamp": "2025-10-26T23:43:04.514262"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.8774,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T23:43:04.521761"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.5664217129546766,
+      "source": "backtest",
+      "timestamp": "2025-10-26T23:43:55.941593"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": false,
+      "confidence": 0.8764,
+      "source": "forward_test",
+      "timestamp": "2025-10-26T23:43:55.948524"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.5545569889301557,
+      "source": "backtest",
+      "timestamp": "2025-10-27T00:20:09.855598"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": false,
+      "confidence": 0.9406,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T00:20:09.863878"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.5564573746255003,
+      "source": "backtest",
+      "timestamp": "2025-10-27T01:00:24.298796"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": false,
+      "confidence": 0.9574,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T01:00:24.306250"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.5280419349597616,
+      "source": "backtest",
+      "timestamp": "2025-10-27T01:01:17.759445"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": false,
+      "confidence": 0.3713,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T01:01:17.772997"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": false,
+      "confidence": 0.5157272805026947,
+      "source": "backtest",
+      "timestamp": "2025-10-27T01:03:33.404658"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T01:03:33.416325"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": false,
+      "confidence": 0.526395906081435,
+      "source": "backtest",
+      "timestamp": "2025-10-27T01:04:29.167420"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": true,
+      "confidence": 0.7551,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T01:04:29.179327"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": true,
+      "confidence": 0.581895358656459,
+      "source": "backtest",
+      "timestamp": "2025-10-27T01:07:32.881125"
+    },
+    {
+      "pair": "BTCUSDc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T01:07:32.893863"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.49918678367567343,
+      "source": "backtest",
+      "timestamp": "2025-10-27T02:05:20.650293"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T02:05:20.663249"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.5156346123417278,
+      "source": "backtest",
+      "timestamp": "2025-10-27T02:05:52.147383"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T02:05:52.154666"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.47819486462842004,
+      "source": "backtest",
+      "timestamp": "2025-10-27T02:06:47.264056"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.361,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T02:06:47.271539"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.5120436160160627,
+      "source": "backtest",
+      "timestamp": "2025-10-27T02:10:43.697415"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T02:10:43.705060"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.5123590668570198,
+      "source": "backtest",
+      "timestamp": "2025-10-27T02:17:46.499582"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T02:17:46.508036"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.5164986040862193,
+      "source": "backtest",
+      "timestamp": "2025-10-27T02:23:23.886977"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T02:23:23.894643"
+    },
+    {
+      "pair": "GBPCADc",
+      "success": false,
+      "confidence": 0.5070886020462178,
+      "source": "backtest",
+      "timestamp": "2025-10-27T02:31:57.014758"
+    },
+    {
+      "pair": "GBPCADc",
+      "success": true,
+      "confidence": 0.9616,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T02:31:57.022240"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.4685326279601679,
+      "source": "backtest",
+      "timestamp": "2025-10-27T02:35:26.686235"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.3658,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T02:35:26.694354"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": true,
+      "confidence": 0.5560381917701985,
+      "source": "backtest",
+      "timestamp": "2025-10-27T02:36:43.402709"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T02:36:43.411055"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.45678155257943703,
+      "source": "backtest",
+      "timestamp": "2025-10-27T02:46:58.455275"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.3561,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T02:46:58.464493"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.5233344723027011,
+      "source": "backtest",
+      "timestamp": "2025-10-27T06:39:33.643539"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.4864,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T06:39:33.651274"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.5071140782900246,
+      "source": "backtest",
+      "timestamp": "2025-10-27T06:40:11.863789"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T06:40:11.871760"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.4549424344622506,
+      "source": "backtest",
+      "timestamp": "2025-10-27T06:41:12.894920"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.2145,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T06:41:12.903028"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.4552621186663699,
+      "source": "backtest",
+      "timestamp": "2025-10-27T06:51:57.891613"
+    },
+    {
+      "pair": "CHFJPYc",
+      "success": false,
+      "confidence": 0.2249,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T06:51:57.901060"
+    },
+    {
+      "pair": "EURGBPc",
+      "success": false,
+      "confidence": 0.5090331927884794,
+      "source": "backtest",
+      "timestamp": "2025-10-27T08:17:03.112434"
+    },
+    {
+      "pair": "EURGBPc",
+      "success": false,
+      "confidence": 0.42,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T08:17:03.151301"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.6433235810891605,
+      "source": "backtest",
+      "timestamp": "2025-10-27T08:21:15.018395"
+    },
+    {
+      "pair": "XAUUSDc",
+      "success": true,
+      "confidence": 0.695,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T08:21:15.027202"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": false,
+      "confidence": 0.48115453598488456,
+      "source": "backtest",
+      "timestamp": "2025-10-27T08:41:09.529591"
+    },
+    {
+      "pair": "EURUSDc",
+      "success": false,
+      "confidence": 0.4632,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T08:41:09.539202"
+    },
+    {
+      "pair": "GBPUSDc",
+      "success": false,
+      "confidence": 0.4792656726325629,
+      "source": "backtest",
+      "timestamp": "2025-10-27T08:57:53.243311"
+    },
+    {
+      "pair": "GBPUSDc",
+      "success": true,
+      "confidence": 0.6396,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T08:57:53.252490"
+    },
+    {
+      "pair": "GBPUSDc",
+      "success": false,
+      "confidence": 0.48131130274814105,
+      "source": "backtest",
+      "timestamp": "2025-10-27T09:00:05.282164"
+    },
+    {
+      "pair": "GBPUSDc",
+      "success": true,
+      "confidence": 0.6363,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T09:00:05.291575"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": false,
+      "confidence": 0.5124179972207448,
+      "source": "backtest",
+      "timestamp": "2025-10-27T09:00:32.435030"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": false,
+      "confidence": 0.8298,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T09:00:32.444036"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": false,
+      "confidence": 0.5074007996209928,
+      "source": "backtest",
+      "timestamp": "2025-10-27T09:15:55.549006"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": true,
+      "confidence": 0.9079,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T09:15:55.558160"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": true,
+      "confidence": 0.5377877035240269,
+      "source": "backtest",
+      "timestamp": "2025-10-27T09:16:24.679338"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T09:16:24.688103"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": false,
+      "confidence": 0.513716208598126,
+      "source": "backtest",
+      "timestamp": "2025-10-27T09:16:59.507398"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T09:16:59.516490"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": true,
+      "confidence": 0.5595685167309145,
+      "source": "backtest",
+      "timestamp": "2025-10-27T09:17:57.303376"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": false,
+      "confidence": 0.2432,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T09:17:57.312313"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": false,
+      "confidence": 0.5188165128333279,
+      "source": "backtest",
+      "timestamp": "2025-10-27T09:18:34.687448"
+    },
+    {
+      "pair": "NZDJPYc",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T09:18:34.696288"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.6024167540896204,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:11:09.038126"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.8968,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:11:09.046603"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.5855335853727702,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:12:27.204553"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.5,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:12:27.215289"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.48962862793820466,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:13:03.461375"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:13:03.471064"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.5146508207508487,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:16:08.363530"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:16:08.382835"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.4969724779219403,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:27:04.745642"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.3461,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:27:04.755527"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.5256507108061033,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:27:41.733313"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.9879,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:27:41.744813"
+    },
+    {
+      "pair": "US500m",
+      "success": true,
+      "confidence": 0.5530776415667984,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:29:35.636689"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.4151,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:29:35.648448"
+    },
+    {
+      "pair": "US500m",
+      "success": true,
+      "confidence": 0.5369436677014973,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:30:21.831106"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:30:21.841173"
+    },
+    {
+      "pair": "US500m",
+      "success": true,
+      "confidence": 0.5642711221913099,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:31:00.972519"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:31:00.984845"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.5146508207508487,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:31:39.801497"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:31:39.814840"
+    },
+    {
+      "pair": "US500m",
+      "success": true,
+      "confidence": 0.5531430560984365,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:32:19.142032"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.4241,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:32:19.152462"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.5059515724082871,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:35:48.575686"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.2285,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:35:48.585401"
+    },
+    {
+      "pair": "HK50m",
+      "success": false,
+      "confidence": 0.509141964408032,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:38:10.404199"
+    },
+    {
+      "pair": "HK50m",
+      "success": true,
+      "confidence": 0.8438,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:38:10.415998"
+    },
+    {
+      "pair": "JP225m",
+      "success": true,
+      "confidence": 0.5977826842519918,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:39:56.955360"
+    },
+    {
+      "pair": "JP225m",
+      "success": false,
+      "confidence": 0.4761,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:39:56.966082"
+    },
+    {
+      "pair": "JP225m",
+      "success": true,
+      "confidence": 0.5851705916854608,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:40:32.648966"
+    },
+    {
+      "pair": "JP225m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:40:32.659537"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.5183280783770913,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:41:21.170957"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.9893,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:41:21.231816"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": true,
+      "confidence": 0.5876401983743839,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:42:40.601922"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:42:40.613565"
+    },
+    {
+      "pair": "UK100m",
+      "success": true,
+      "confidence": 0.5167739963212289,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:44:27.368879"
+    },
+    {
+      "pair": "UK100m",
+      "success": false,
+      "confidence": 0.9452,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:44:27.380211"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.5220122972726139,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:46:06.835516"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.9732,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:46:06.847387"
+    },
+    {
+      "pair": "USTECm",
+      "success": true,
+      "confidence": 0.5876401902579639,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:47:07.438022"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:47:07.500812"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.4752412783544475,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:48:06.823248"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.3074,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:48:06.834837"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.5087371452940297,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:49:19.746699"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.9881,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:49:19.756721"
+    },
+    {
+      "pair": "USOILm",
+      "success": false,
+      "confidence": 0.47284885026116374,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:50:42.483444"
+    },
+    {
+      "pair": "USOILm",
+      "success": false,
+      "confidence": 0.9875,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:50:42.499038"
+    },
+    {
+      "pair": "AAPLm",
+      "success": true,
+      "confidence": 0.5606085081715351,
+      "source": "backtest",
+      "timestamp": "2025-10-27T10:52:23.101146"
+    },
+    {
+      "pair": "AAPLm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T10:52:23.162713"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.5745311385450256,
+      "source": "backtest",
+      "timestamp": "2025-10-27T11:22:57.929839"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.9759,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T11:22:58.000773"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.537852757453531,
+      "source": "backtest",
+      "timestamp": "2025-10-27T11:25:17.937606"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.8551,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T11:25:17.949115"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.5813352024524582,
+      "source": "backtest",
+      "timestamp": "2025-10-27T11:39:52.456251"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.96,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T11:39:52.466837"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": true,
+      "confidence": 0.5826882730130555,
+      "source": "backtest",
+      "timestamp": "2025-10-27T11:46:18.954057"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": true,
+      "confidence": 0.9856,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T11:46:18.964536"
+    },
+    {
+      "pair": "US500m",
+      "success": true,
+      "confidence": 0.5589741461631699,
+      "source": "backtest",
+      "timestamp": "2025-10-27T12:16:25.486981"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.4519,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T12:16:25.497780"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.5290675661126222,
+      "source": "backtest",
+      "timestamp": "2025-10-27T12:18:49.602922"
+    },
+    {
+      "pair": "FR40m",
+      "success": true,
+      "confidence": 0.831,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T12:18:49.614104"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.5059132391248381,
+      "source": "backtest",
+      "timestamp": "2025-10-27T13:22:02.140947"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": true,
+      "confidence": 0.6159,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T13:22:02.170257"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": true,
+      "confidence": 0.5299148265137783,
+      "source": "backtest",
+      "timestamp": "2025-10-27T13:23:08.556297"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T13:23:08.566767"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": true,
+      "confidence": 0.5424949936620715,
+      "source": "backtest",
+      "timestamp": "2025-10-27T13:23:37.780536"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.4602,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T13:23:37.791202"
+    },
+    {
+      "pair": "HK50m",
+      "success": false,
+      "confidence": 0.5139991820063621,
+      "source": "backtest",
+      "timestamp": "2025-10-27T13:24:48.005965"
+    },
+    {
+      "pair": "HK50m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T13:24:48.016692"
+    },
+    {
+      "pair": "HK50m",
+      "success": true,
+      "confidence": 0.5442704218414269,
+      "source": "backtest",
+      "timestamp": "2025-10-27T13:25:18.327454"
+    },
+    {
+      "pair": "HK50m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T13:25:18.338323"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": true,
+      "confidence": 0.5863229079763898,
+      "source": "backtest",
+      "timestamp": "2025-10-27T13:31:39.005604"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": false,
+      "confidence": 0.343,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T13:31:39.016255"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": true,
+      "confidence": 0.5663923572529596,
+      "source": "backtest",
+      "timestamp": "2025-10-27T13:32:41.042702"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T13:32:41.054036"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": true,
+      "confidence": 0.5678611629887881,
+      "source": "backtest",
+      "timestamp": "2025-10-27T13:33:16.378590"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T13:33:16.389788"
+    },
+    {
+      "pair": "USTECm",
+      "success": true,
+      "confidence": 0.5777731658836832,
+      "source": "backtest",
+      "timestamp": "2025-10-27T13:38:36.255824"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.3771,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T13:38:36.267004"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": true,
+      "confidence": 0.5777731658836832,
+      "source": "backtest",
+      "timestamp": "2025-10-27T13:40:09.724990"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": false,
+      "confidence": 0.3755,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T13:40:09.736083"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.574178486108703,
+      "source": "backtest",
+      "timestamp": "2025-10-27T13:48:56.722840"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.6172,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T13:48:56.744528"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.5572349644175573,
+      "source": "backtest",
+      "timestamp": "2025-10-27T13:49:57.833138"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T13:49:57.852195"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.5167374024323548,
+      "source": "backtest",
+      "timestamp": "2025-10-27T13:52:01.615014"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.7585,
+      "source": "forward_test",
+      "timestamp": "2025-10-27T13:52:01.627581"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.5526590492830993,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:01:45.637629"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.99,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:01:45.658103"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.5305292501823834,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:02:22.575741"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.9066,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:02:22.586702"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.5813337751458763,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:03:30.068696"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.9593,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:03:30.080224"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.5812032883834974,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:13:22.044669"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.9552,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:13:22.056041"
+    },
+    {
+      "pair": "USTECm",
+      "success": true,
+      "confidence": 0.5605968135345978,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:14:29.034316"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.698,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:14:29.045651"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.5727746618908099,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:16:33.133438"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:16:33.145059"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.5713779894951277,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:18:08.985689"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.9266,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:18:08.998321"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.540055422880507,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:18:39.410052"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.954,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:18:39.424155"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": true,
+      "confidence": 0.5545035045889559,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:20:56.370035"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": false,
+      "confidence": 0.9871,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:20:56.382026"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": true,
+      "confidence": 0.5773902087222417,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:22:07.951298"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": false,
+      "confidence": 0.9027,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:22:07.962619"
+    },
+    {
+      "pair": "US500m",
+      "success": true,
+      "confidence": 0.539058539679847,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:24:17.948283"
+    },
+    {
+      "pair": "US500m",
+      "success": true,
+      "confidence": 0.7116,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:24:17.960752"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.5100143385475645,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:25:15.394693"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:25:15.406267"
+    },
+    {
+      "pair": "XAGUSDm",
+      "success": true,
+      "confidence": 0.5267190786424064,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:26:22.008526"
+    },
+    {
+      "pair": "XAGUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:26:22.020607"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.5434440483391036,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:28:11.201701"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.9475,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:28:11.223241"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.5485251306798894,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:29:47.821248"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.9472,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:29:47.834107"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.5562783013369053,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:30:33.117334"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:30:33.129772"
+    },
+    {
+      "pair": "UK100m",
+      "success": true,
+      "confidence": 0.5294088668322383,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:32:40.606476"
+    },
+    {
+      "pair": "UK100m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:32:40.618724"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": true,
+      "confidence": 0.5333600781271598,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:34:58.578876"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": false,
+      "confidence": 0.2441,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:34:58.590879"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": true,
+      "confidence": 0.5265494327033455,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:37:01.195090"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:37:01.226357"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": true,
+      "confidence": 0.5416985456482059,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:37:33.396157"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.3998,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:37:33.408915"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": true,
+      "confidence": 0.5897473398234853,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:38:20.894728"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:38:20.965855"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.520276263967483,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:38:52.539749"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": true,
+      "confidence": 0.5399,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:38:52.608400"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": false,
+      "confidence": 0.45536454433815554,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:41:10.109371"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": false,
+      "confidence": 0.5542,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:41:10.122531"
+    },
+    {
+      "pair": "AAPLm",
+      "success": false,
+      "confidence": 0.5180558588827878,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:44:03.038180"
+    },
+    {
+      "pair": "AAPLm",
+      "success": true,
+      "confidence": 0.5971,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:44:03.051734"
+    },
+    {
+      "pair": "USOILm",
+      "success": false,
+      "confidence": 0.49558788240411156,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:46:23.911135"
+    },
+    {
+      "pair": "USOILm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:46:23.923355"
+    },
+    {
+      "pair": "USTECm",
+      "success": true,
+      "confidence": 0.5332244367842169,
+      "source": "backtest",
+      "timestamp": "2025-10-29T17:54:16.636852"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.2471,
+      "source": "forward_test",
+      "timestamp": "2025-10-29T17:54:16.701583"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.5485141082701857,
+      "source": "backtest",
+      "timestamp": "2025-10-30T15:29:22.319107"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T15:29:22.366546"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.5235802726705473,
+      "source": "backtest",
+      "timestamp": "2025-10-30T15:30:28.311486"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.6375,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T15:30:28.323930"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.5417704757246112,
+      "source": "backtest",
+      "timestamp": "2025-10-30T15:32:35.472998"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.94,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T15:32:35.485156"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.5620014873564941,
+      "source": "backtest",
+      "timestamp": "2025-10-30T15:37:42.692340"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T15:37:42.705220"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.5566438544642544,
+      "source": "backtest",
+      "timestamp": "2025-10-30T16:48:44.058890"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T16:48:44.080701"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.6035624686901734,
+      "source": "backtest",
+      "timestamp": "2025-10-30T19:11:40.406041"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T19:11:40.422241"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.5019086454509417,
+      "source": "backtest",
+      "timestamp": "2025-10-30T19:37:37.234163"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.4774,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T19:37:37.246663"
+    },
+    {
+      "pair": "USTECm",
+      "success": true,
+      "confidence": 0.5390611424790651,
+      "source": "backtest",
+      "timestamp": "2025-10-30T20:29:40.891587"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.904,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T20:29:40.908712"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.5240482383589279,
+      "source": "backtest",
+      "timestamp": "2025-10-30T20:32:16.061978"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.2523,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T20:32:16.078344"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": true,
+      "confidence": 0.528410582295369,
+      "source": "backtest",
+      "timestamp": "2025-10-30T20:47:48.766293"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": true,
+      "confidence": 0.9289,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T20:47:48.782081"
+    },
+    {
+      "pair": "AUDCADm",
+      "success": false,
+      "confidence": 0.5151194612955045,
+      "source": "backtest",
+      "timestamp": "2025-10-30T20:50:21.080130"
+    },
+    {
+      "pair": "AUDCADm",
+      "success": false,
+      "confidence": 0.7246,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T20:50:21.093986"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": false,
+      "confidence": 0.479600017123704,
+      "source": "backtest",
+      "timestamp": "2025-10-30T20:52:07.478074"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T20:52:07.492998"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.5468661143424804,
+      "source": "backtest",
+      "timestamp": "2025-10-30T20:53:53.326312"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.947,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T20:53:53.339263"
+    },
+    {
+      "pair": "AAPLm",
+      "success": true,
+      "confidence": 0.5307340285097014,
+      "source": "backtest",
+      "timestamp": "2025-10-30T20:56:30.244053"
+    },
+    {
+      "pair": "AAPLm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T20:56:30.259692"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.5393228970093297,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:22:17.091246"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.9836,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:22:17.111850"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.5242422253238415,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:24:48.363544"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.2499,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:24:48.378611"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.546842631500397,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:27:17.137876"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.9547,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:27:17.154864"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.5506496783292236,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:29:53.059635"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.9629,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:29:53.077449"
+    },
+    {
+      "pair": "GBPAUDm",
+      "success": true,
+      "confidence": 0.5261859326705992,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:32:22.829219"
+    },
+    {
+      "pair": "GBPAUDm",
+      "success": true,
+      "confidence": 0.9071,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:32:22.849930"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": true,
+      "confidence": 0.5261413627354755,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:34:09.992082"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": true,
+      "confidence": 0.9445,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:34:10.010553"
+    },
+    {
+      "pair": "GBPNZDm",
+      "success": false,
+      "confidence": 0.5069489232479306,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:36:45.041878"
+    },
+    {
+      "pair": "GBPNZDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:36:45.061297"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.5504950620371777,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:44:29.586309"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.9617,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:44:29.599552"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.5242662158771076,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:46:08.266155"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.2499,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:46:08.281517"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.5242623526656928,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:51:07.186444"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.2499,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:51:07.200822"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.5387496672535218,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:52:25.193166"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.9506,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:52:25.209082"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.5367163003897982,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:53:16.551618"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.9819,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:53:16.569424"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.542732811586497,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:54:07.676448"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.9652,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:54:07.691466"
+    },
+    {
+      "pair": "GBPJPYm",
+      "success": false,
+      "confidence": 0.45784339594463336,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:56:16.109569"
+    },
+    {
+      "pair": "GBPJPYm",
+      "success": false,
+      "confidence": 0.233,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:56:16.195463"
+    },
+    {
+      "pair": "GBPJPYm",
+      "success": true,
+      "confidence": 0.5345847297035857,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:56:55.213446"
+    },
+    {
+      "pair": "GBPJPYm",
+      "success": false,
+      "confidence": 0.7347,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:56:55.232028"
+    },
+    {
+      "pair": "NZDCADm",
+      "success": false,
+      "confidence": 0.5063771831591294,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:58:26.706047"
+    },
+    {
+      "pair": "NZDCADm",
+      "success": false,
+      "confidence": 0.9719,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:58:26.744222"
+    },
+    {
+      "pair": "NZDCADm",
+      "success": false,
+      "confidence": 0.487467503080661,
+      "source": "backtest",
+      "timestamp": "2025-10-30T21:59:08.229924"
+    },
+    {
+      "pair": "NZDCADm",
+      "success": true,
+      "confidence": 0.8786,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T21:59:08.245928"
+    },
+    {
+      "pair": "USTECm",
+      "success": true,
+      "confidence": 0.5453356797147259,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:00:41.688351"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.4431,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:00:41.714105"
+    },
+    {
+      "pair": "USTECm",
+      "success": true,
+      "confidence": 0.5383059749593359,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:01:31.984001"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.8754,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:01:31.999604"
+    },
+    {
+      "pair": "JP225m",
+      "success": true,
+      "confidence": 0.5426301565509295,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:03:58.990725"
+    },
+    {
+      "pair": "JP225m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:03:59.006075"
+    },
+    {
+      "pair": "JP225m",
+      "success": true,
+      "confidence": 0.5945829418612364,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:04:42.081802"
+    },
+    {
+      "pair": "JP225m",
+      "success": false,
+      "confidence": 0.6726,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:04:42.097861"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": true,
+      "confidence": 0.5383039705150582,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:05:41.672011"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": false,
+      "confidence": 0.8749,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:05:41.687437"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": true,
+      "confidence": 0.5344821698369835,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:07:05.540611"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.5685,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:07:05.556665"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.4892492108775423,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:07:42.947343"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.9522,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:07:42.965147"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.5008556363163421,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:08:41.865256"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.6171,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:08:41.881542"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.5237656780388213,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:10:41.756768"
+    },
+    {
+      "pair": "US500m",
+      "success": true,
+      "confidence": 0.6156,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:10:41.774195"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.4984846678041747,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:12:31.339808"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.7914,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:12:31.356735"
+    },
+    {
+      "pair": "UK100m",
+      "success": false,
+      "confidence": 0.5098942618542116,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:14:40.301796"
+    },
+    {
+      "pair": "UK100m",
+      "success": true,
+      "confidence": 0.8327,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:14:40.317827"
+    },
+    {
+      "pair": "CHFJPYm",
+      "success": false,
+      "confidence": 0.5244346911327026,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:17:04.950597"
+    },
+    {
+      "pair": "CHFJPYm",
+      "success": false,
+      "confidence": 0.219,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:17:04.969256"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": true,
+      "confidence": 0.579803390328897,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:21:54.494121"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:21:54.513492"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": true,
+      "confidence": 0.5798133400548204,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:23:31.409819"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:23:31.424908"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.5242166656752377,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:29:37.923855"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.2356,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:29:37.940147"
+    },
+    {
+      "pair": "UK100m",
+      "success": false,
+      "confidence": 0.5100070288570486,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:30:55.410286"
+    },
+    {
+      "pair": "UK100m",
+      "success": true,
+      "confidence": 0.8313,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:30:55.427202"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.49005904390756877,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:36:14.055246"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.9568,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:36:14.073930"
+    },
+    {
+      "pair": "HK50m",
+      "success": true,
+      "confidence": 0.5433774718886011,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:37:08.650857"
+    },
+    {
+      "pair": "HK50m",
+      "success": false,
+      "confidence": 0.7974,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:37:08.668091"
+    },
+    {
+      "pair": "USOILm",
+      "success": true,
+      "confidence": 0.5277602592405299,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:38:21.134902"
+    },
+    {
+      "pair": "USOILm",
+      "success": true,
+      "confidence": 0.5249,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:38:21.151749"
+    },
+    {
+      "pair": "USOILm",
+      "success": true,
+      "confidence": 0.5208093269462093,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:42:56.285775"
+    },
+    {
+      "pair": "USOILm",
+      "success": true,
+      "confidence": 0.5251,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:42:56.302594"
+    },
+    {
+      "pair": "USOILm",
+      "success": true,
+      "confidence": 0.5225663738642499,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:45:10.112580"
+    },
+    {
+      "pair": "USOILm",
+      "success": true,
+      "confidence": 0.5248,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:45:10.130014"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.503627681380052,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:51:24.971673"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.5683,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:51:24.990728"
+    },
+    {
+      "pair": "XAUEURm",
+      "success": true,
+      "confidence": 0.5586227426456064,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:53:30.198267"
+    },
+    {
+      "pair": "XAUEURm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:53:30.216117"
+    },
+    {
+      "pair": "AUDUSDm",
+      "success": true,
+      "confidence": 0.5416086286401529,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:54:23.890613"
+    },
+    {
+      "pair": "AUDUSDm",
+      "success": false,
+      "confidence": 0.8041,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:54:23.908791"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": true,
+      "confidence": 0.5802919861947852,
+      "source": "backtest",
+      "timestamp": "2025-10-30T22:55:53.319054"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T22:55:53.336708"
+    },
+    {
+      "pair": "US500_x100m",
+      "success": false,
+      "confidence": 0.5195924771292825,
+      "source": "backtest",
+      "timestamp": "2025-10-30T23:00:02.531926"
+    },
+    {
+      "pair": "US500_x100m",
+      "success": true,
+      "confidence": 0.6426,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T23:00:02.560238"
+    },
+    {
+      "pair": "US30_x10m",
+      "success": false,
+      "confidence": 0.5061068602268384,
+      "source": "backtest",
+      "timestamp": "2025-10-30T23:01:53.007191"
+    },
+    {
+      "pair": "US30_x10m",
+      "success": true,
+      "confidence": 0.5946,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T23:01:53.026941"
+    },
+    {
+      "pair": "USTECm",
+      "success": true,
+      "confidence": 0.5453544712304363,
+      "source": "backtest",
+      "timestamp": "2025-10-30T23:07:59.245776"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.4636,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T23:07:59.264488"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": true,
+      "confidence": 0.5280405975293352,
+      "source": "backtest",
+      "timestamp": "2025-10-30T23:09:04.921011"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.5818,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T23:09:04.937444"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.5428452635585199,
+      "source": "backtest",
+      "timestamp": "2025-10-30T23:11:38.519141"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.9751,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T23:11:38.536483"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.5393233185047164,
+      "source": "backtest",
+      "timestamp": "2025-10-30T23:12:14.296609"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.973,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T23:12:14.312846"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.5393233185047164,
+      "source": "backtest",
+      "timestamp": "2025-10-30T23:12:55.403718"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.973,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T23:12:55.422381"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.5514668760164613,
+      "source": "backtest",
+      "timestamp": "2025-10-30T23:13:53.362939"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.9807,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T23:13:53.382564"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.5466424979137288,
+      "source": "backtest",
+      "timestamp": "2025-10-30T23:14:32.755242"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.9627,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T23:14:32.771655"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.5462989805079932,
+      "source": "backtest",
+      "timestamp": "2025-10-30T23:15:15.087044"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T23:15:15.105484"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.5514668760164613,
+      "source": "backtest",
+      "timestamp": "2025-10-30T23:16:02.269192"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.9805,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T23:16:02.290968"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.5393233185047164,
+      "source": "backtest",
+      "timestamp": "2025-10-30T23:17:07.005384"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.9717,
+      "source": "forward_test",
+      "timestamp": "2025-10-30T23:17:07.023759"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.5418285124330255,
+      "source": "backtest",
+      "timestamp": "2025-10-31T09:17:05.350022"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T09:17:05.445368"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.5200534759863134,
+      "source": "backtest",
+      "timestamp": "2025-10-31T11:42:26.650737"
+    },
+    {
+      "pair": "US500m",
+      "success": true,
+      "confidence": 0.6343,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T11:42:26.668188"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.5137769123301268,
+      "source": "backtest",
+      "timestamp": "2025-10-31T11:43:18.463925"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.8301,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T11:43:18.479873"
+    },
+    {
+      "pair": "US500m",
+      "success": true,
+      "confidence": 0.538484682793642,
+      "source": "backtest",
+      "timestamp": "2025-10-31T11:43:52.970652"
+    },
+    {
+      "pair": "US500m",
+      "success": true,
+      "confidence": 0.7483,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T11:43:52.986480"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.48474945177943335,
+      "source": "backtest",
+      "timestamp": "2025-10-31T11:47:26.461057"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.8295,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T11:47:26.477134"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.47356836883294895,
+      "source": "backtest",
+      "timestamp": "2025-10-31T11:48:06.323589"
+    },
+    {
+      "pair": "DE30m",
+      "success": true,
+      "confidence": 0.7718,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T11:48:06.339442"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.6076357228541418,
+      "source": "backtest",
+      "timestamp": "2025-10-31T11:48:52.143747"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.3292,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T11:48:52.159927"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.5585903917627558,
+      "source": "backtest",
+      "timestamp": "2025-10-31T11:50:36.501767"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T11:50:36.517431"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.5454773833145726,
+      "source": "backtest",
+      "timestamp": "2025-10-31T12:11:28.285597"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.923,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T12:11:28.304265"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.5425695507317627,
+      "source": "backtest",
+      "timestamp": "2025-10-31T12:21:28.499232"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.9391,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T12:21:28.517567"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T12:48:53.338848"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.5849618211199996,
+      "source": "backtest",
+      "timestamp": "2025-10-31T14:20:09.822522"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.9635,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T14:20:09.838887"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T14:42:30.327234"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.5849615133939378,
+      "source": "backtest",
+      "timestamp": "2025-10-31T15:11:59.970724"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.9645,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T15:12:00.087509"
+    },
+    {
+      "pair": "GBPUSDm",
+      "success": true,
+      "confidence": 0.6602146673213444,
+      "source": "backtest",
+      "timestamp": "2025-10-31T15:29:18.297353"
+    },
+    {
+      "pair": "GBPUSDm",
+      "success": true,
+      "confidence": 0.99,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T15:29:18.360025"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.6557496269275439,
+      "source": "backtest",
+      "timestamp": "2025-10-31T17:23:28.760064"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.9081,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T17:23:29.063253"
+    },
+    {
+      "pair": "GBPUSDm",
+      "success": true,
+      "confidence": 0.6601942690629844,
+      "source": "backtest",
+      "timestamp": "2025-10-31T18:01:06.699958"
+    },
+    {
+      "pair": "GBPUSDm",
+      "success": false,
+      "confidence": 0.9381,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T18:01:06.785183"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.6079364462027574,
+      "source": "backtest",
+      "timestamp": "2025-10-31T18:07:29.256566"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.847,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T18:07:29.312527"
+    },
+    {
+      "pair": "GBPUSDm",
+      "success": false,
+      "confidence": 0.5733694627840836,
+      "source": "backtest",
+      "timestamp": "2025-10-31T18:23:28.537572"
+    },
+    {
+      "pair": "GBPUSDm",
+      "success": false,
+      "confidence": 0.2023,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T18:23:28.712040"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.5952532791097663,
+      "source": "backtest",
+      "timestamp": "2025-10-31T18:37:03.516535"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.564,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T18:37:03.566360"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-10-31T18:40:51.337294"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.5647,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T18:40:51.415114"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.6297440132749741,
+      "source": "backtest",
+      "timestamp": "2025-10-31T18:43:08.502069"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.5706,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T18:43:08.579247"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.6295979654343345,
+      "source": "backtest",
+      "timestamp": "2025-10-31T18:45:10.879724"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.5679,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T18:45:10.975067"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.5854554654344363,
+      "source": "backtest",
+      "timestamp": "2025-10-31T18:46:16.911694"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.3277,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T18:46:17.054593"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": true,
+      "confidence": 0.6372810608227424,
+      "source": "backtest",
+      "timestamp": "2025-10-31T19:01:58.927848"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T19:01:59.326715"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.5559398324601469,
+      "source": "backtest",
+      "timestamp": "2025-10-31T19:03:09.050487"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.7281,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T19:03:09.124154"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.5563476347820164,
+      "source": "backtest",
+      "timestamp": "2025-10-31T19:05:43.256159"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.8176,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T19:05:43.325091"
+    },
+    {
+      "pair": "UK100m",
+      "success": false,
+      "confidence": 0.49352893440315754,
+      "source": "backtest",
+      "timestamp": "2025-10-31T19:12:38.531775"
+    },
+    {
+      "pair": "UK100m",
+      "success": false,
+      "confidence": 0.2943,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T19:12:38.603214"
+    },
+    {
+      "pair": "UK100m",
+      "success": true,
+      "confidence": 0.6431962590569361,
+      "source": "backtest",
+      "timestamp": "2025-10-31T19:31:15.726306"
+    },
+    {
+      "pair": "UK100m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T19:31:15.795486"
+    },
+    {
+      "pair": "UK100m",
+      "success": true,
+      "confidence": 0.643196249034521,
+      "source": "backtest",
+      "timestamp": "2025-10-31T19:33:05.253275"
+    },
+    {
+      "pair": "UK100m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T19:33:05.329401"
+    },
+    {
+      "pair": "UK100m",
+      "success": false,
+      "confidence": 0.5433649065581732,
+      "source": "backtest",
+      "timestamp": "2025-10-31T19:35:02.927804"
+    },
+    {
+      "pair": "UK100m",
+      "success": false,
+      "confidence": 0.8124,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T19:35:03.079435"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.41664999999999996,
+      "source": "backtest",
+      "timestamp": "2025-10-31T19:37:19.709358"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.889,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T19:37:19.781597"
+    },
+    {
+      "pair": "FR40m",
+      "success": true,
+      "confidence": 0.6487923268953503,
+      "source": "backtest",
+      "timestamp": "2025-10-31T19:40:10.251805"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.9132,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T19:40:10.320807"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": false,
+      "confidence": 0.5647116888851245,
+      "source": "backtest",
+      "timestamp": "2025-10-31T19:44:01.971357"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": false,
+      "confidence": 0.874,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T19:44:02.057292"
+    },
+    {
+      "pair": "JP225m",
+      "success": true,
+      "confidence": 0.6092073252578436,
+      "source": "backtest",
+      "timestamp": "2025-10-31T19:52:49.210766"
+    },
+    {
+      "pair": "JP225m",
+      "success": false,
+      "confidence": 0.7462,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T19:52:49.285500"
+    },
+    {
+      "pair": "USOILm",
+      "success": false,
+      "confidence": 0.5745249460404187,
+      "source": "backtest",
+      "timestamp": "2025-10-31T19:59:00.483460"
+    },
+    {
+      "pair": "USOILm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T19:59:00.632015"
+    },
+    {
+      "pair": "USOILm",
+      "success": false,
+      "confidence": 0.5983726657113679,
+      "source": "backtest",
+      "timestamp": "2025-10-31T20:09:35.610368"
+    },
+    {
+      "pair": "USOILm",
+      "success": true,
+      "confidence": 0.6101,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T20:09:35.693496"
+    },
+    {
+      "pair": "XAUEURm",
+      "success": true,
+      "confidence": 0.6771852247100533,
+      "source": "backtest",
+      "timestamp": "2025-10-31T20:15:05.079847"
+    },
+    {
+      "pair": "XAUEURm",
+      "success": false,
+      "confidence": 0.4744,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T20:15:05.150883"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-10-31T20:22:52.077315"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.5399,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T20:22:52.197484"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.6097112776803233,
+      "source": "backtest",
+      "timestamp": "2025-10-31T20:24:58.623292"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.8049,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T20:24:58.695783"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.6556726488632758,
+      "source": "backtest",
+      "timestamp": "2025-10-31T20:34:32.908029"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T20:34:33.031011"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": true,
+      "confidence": 0.620687714154138,
+      "source": "backtest",
+      "timestamp": "2025-10-31T20:38:40.792163"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": true,
+      "confidence": 0.7418,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T20:38:40.864105"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.5908860119175691,
+      "source": "backtest",
+      "timestamp": "2025-10-31T20:44:25.642239"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.6264,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T20:44:25.716045"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.5983290117526879,
+      "source": "backtest",
+      "timestamp": "2025-10-31T20:59:30.069161"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.4286,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T20:59:30.145347"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.5555127344809728,
+      "source": "backtest",
+      "timestamp": "2025-10-31T21:02:13.697658"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T21:02:13.824056"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.5555138110802416,
+      "source": "backtest",
+      "timestamp": "2025-10-31T21:05:10.663082"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T21:05:10.732749"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.6328184923229829,
+      "source": "backtest",
+      "timestamp": "2025-10-31T21:15:52.764429"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.7281,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T21:15:52.865598"
+    },
+    {
+      "pair": "AAPLm",
+      "success": false,
+      "confidence": 0.5599613399160293,
+      "source": "backtest",
+      "timestamp": "2025-10-31T21:18:20.719987"
+    },
+    {
+      "pair": "AAPLm",
+      "success": false,
+      "confidence": 0.2555,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T21:18:20.799968"
+    },
+    {
+      "pair": "USDARS",
+      "success": true,
+      "confidence": 0.6035349788488469,
+      "source": "backtest",
+      "timestamp": "2025-10-31T21:23:32.958744"
+    },
+    {
+      "pair": "USDARS",
+      "success": true,
+      "confidence": 0.961,
+      "source": "forward_test",
+      "timestamp": "2025-10-31T21:23:33.045785"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.582923462280676,
+      "source": "backtest",
+      "timestamp": "2025-11-01T00:04:16.047613"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.4609,
+      "source": "forward_test",
+      "timestamp": "2025-11-01T00:04:16.175034"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.582871564562952,
+      "source": "backtest",
+      "timestamp": "2025-11-01T00:07:10.022592"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.4611,
+      "source": "forward_test",
+      "timestamp": "2025-11-01T00:07:10.158165"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.6556726583919267,
+      "source": "backtest",
+      "timestamp": "2025-11-01T00:08:56.569060"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-01T00:08:56.642490"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": true,
+      "confidence": 0.6164655494056405,
+      "source": "backtest",
+      "timestamp": "2025-11-01T00:15:18.631836"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-01T00:15:18.707152"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.5935846691552495,
+      "source": "backtest",
+      "timestamp": "2025-11-01T10:55:27.075882"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-01T10:55:27.410759"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.5596442403711707,
+      "source": "backtest",
+      "timestamp": "2025-11-01T10:56:26.784753"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.4062,
+      "source": "forward_test",
+      "timestamp": "2025-11-01T10:56:26.856074"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.6094144139264289,
+      "source": "backtest",
+      "timestamp": "2025-11-04T21:52:54.060727"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.9848,
+      "source": "forward_test",
+      "timestamp": "2025-11-04T21:52:54.191761"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.6094140605384517,
+      "source": "backtest",
+      "timestamp": "2025-11-04T22:09:11.297092"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.9847,
+      "source": "forward_test",
+      "timestamp": "2025-11-04T22:09:11.585290"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.43479159825187474,
+      "source": "backtest",
+      "timestamp": "2025-11-04T22:14:30.608964"
+    },
+    {
+      "pair": "USTECm",
+      "success": true,
+      "confidence": 0.7978,
+      "source": "forward_test",
+      "timestamp": "2025-11-04T22:14:30.702111"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.5495136333758014,
+      "source": "backtest",
+      "timestamp": "2025-11-04T22:15:32.978604"
+    },
+    {
+      "pair": "US500m",
+      "success": true,
+      "confidence": 0.5806,
+      "source": "forward_test",
+      "timestamp": "2025-11-04T22:15:33.070042"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.5998861495303862,
+      "source": "backtest",
+      "timestamp": "2025-11-05T16:33:56.721263"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.8235,
+      "source": "forward_test",
+      "timestamp": "2025-11-05T16:33:56.948823"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.6099190153257172,
+      "source": "backtest",
+      "timestamp": "2025-11-08T12:32:52.514177"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.9791,
+      "source": "forward_test",
+      "timestamp": "2025-11-08T12:32:52.675144"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.5806782399448622,
+      "source": "backtest",
+      "timestamp": "2025-11-08T12:50:30.292444"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.64,
+      "source": "forward_test",
+      "timestamp": "2025-11-08T12:50:30.527657"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.5806351155782034,
+      "source": "backtest",
+      "timestamp": "2025-11-08T13:29:46.215049"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.6921,
+      "source": "forward_test",
+      "timestamp": "2025-11-08T13:29:46.368724"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-08T13:31:55.329536"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.2964,
+      "source": "forward_test",
+      "timestamp": "2025-11-08T13:31:55.395495"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": false,
+      "confidence": 0.582854815377882,
+      "source": "backtest",
+      "timestamp": "2025-11-08T13:33:41.544146"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": true,
+      "confidence": 0.947,
+      "source": "forward_test",
+      "timestamp": "2025-11-08T13:33:41.612926"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": true,
+      "confidence": 0.6218375621649564,
+      "source": "backtest",
+      "timestamp": "2025-11-08T13:34:48.964220"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": false,
+      "confidence": 0.585,
+      "source": "forward_test",
+      "timestamp": "2025-11-08T13:34:49.246287"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-08T16:20:38.660115"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.8625,
+      "source": "forward_test",
+      "timestamp": "2025-11-08T16:20:38.809527"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": false,
+      "confidence": 0.5769898967361602,
+      "source": "backtest",
+      "timestamp": "2025-11-08T16:22:03.196773"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": false,
+      "confidence": 0.8733,
+      "source": "forward_test",
+      "timestamp": "2025-11-08T16:22:03.268540"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.6054620774881726,
+      "source": "backtest",
+      "timestamp": "2025-11-08T16:22:51.834964"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.8672,
+      "source": "forward_test",
+      "timestamp": "2025-11-08T16:22:51.918958"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.5792219186728121,
+      "source": "backtest",
+      "timestamp": "2025-11-08T16:23:35.501580"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.5933,
+      "source": "forward_test",
+      "timestamp": "2025-11-08T16:23:35.572124"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-08T16:25:45.619703"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.2396,
+      "source": "forward_test",
+      "timestamp": "2025-11-08T16:25:45.690578"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-08T16:32:03.707711"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.2387,
+      "source": "forward_test",
+      "timestamp": "2025-11-08T16:32:03.734588"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-09T14:21:21.126668"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2687,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T14:21:21.244965"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-09T14:23:30.202719"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.3913,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T14:23:30.285598"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-09T14:34:15.377013"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.3993,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T14:34:15.679550"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.5691494588328916,
+      "source": "backtest",
+      "timestamp": "2025-11-09T14:39:02.210987"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.225,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T14:39:02.438212"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": false,
+      "confidence": 0.5783977865698119,
+      "source": "backtest",
+      "timestamp": "2025-11-09T14:40:25.809013"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": true,
+      "confidence": 0.7467,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T14:40:25.897161"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.6077709956336854,
+      "source": "backtest",
+      "timestamp": "2025-11-09T14:41:55.572119"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.7942,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T14:41:55.643232"
+    },
+    {
+      "pair": "LTCUSDm",
+      "success": false,
+      "confidence": 0.6020904200194162,
+      "source": "backtest",
+      "timestamp": "2025-11-09T14:45:01.423184"
+    },
+    {
+      "pair": "LTCUSDm",
+      "success": true,
+      "confidence": 0.5868,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T14:45:01.504292"
+    },
+    {
+      "pair": "SOLUSDm",
+      "success": true,
+      "confidence": 0.6147762084117591,
+      "source": "backtest",
+      "timestamp": "2025-11-09T14:47:46.899484"
+    },
+    {
+      "pair": "SOLUSDm",
+      "success": true,
+      "confidence": 0.8414,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T14:47:47.153316"
+    },
+    {
+      "pair": "SOLUSDm",
+      "success": true,
+      "confidence": 0.6141350760738917,
+      "source": "backtest",
+      "timestamp": "2025-11-09T14:54:48.321793"
+    },
+    {
+      "pair": "SOLUSDm",
+      "success": true,
+      "confidence": 0.8275,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T14:54:48.493903"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-09T14:58:03.715835"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.7982,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T14:58:03.789607"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.603240048251468,
+      "source": "backtest",
+      "timestamp": "2025-11-09T15:00:39.850475"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.7931,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T15:00:39.924792"
+    },
+    {
+      "pair": "XRPUSDm",
+      "success": false,
+      "confidence": 0.594377968345785,
+      "source": "backtest",
+      "timestamp": "2025-11-09T15:06:19.368063"
+    },
+    {
+      "pair": "XRPUSDm",
+      "success": true,
+      "confidence": 0.6542,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T15:06:19.460095"
+    },
+    {
+      "pair": "XRPUSDm",
+      "success": false,
+      "confidence": 0.5928247996005016,
+      "source": "backtest",
+      "timestamp": "2025-11-09T15:07:20.955015"
+    },
+    {
+      "pair": "XRPUSDm",
+      "success": false,
+      "confidence": 0.4541,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T15:07:21.029248"
+    },
+    {
+      "pair": "SOLUSDm",
+      "success": true,
+      "confidence": 0.6200058301414231,
+      "source": "backtest",
+      "timestamp": "2025-11-09T15:16:19.279148"
+    },
+    {
+      "pair": "SOLUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T15:16:19.351799"
+    },
+    {
+      "pair": "SOLUSDm",
+      "success": true,
+      "confidence": 0.6201642108741353,
+      "source": "backtest",
+      "timestamp": "2025-11-09T15:27:52.189157"
+    },
+    {
+      "pair": "SOLUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T15:27:52.216882"
+    },
+    {
+      "pair": "SOLUSDm",
+      "success": true,
+      "confidence": 0.6201033165960158,
+      "source": "backtest",
+      "timestamp": "2025-11-09T15:28:33.409872"
+    },
+    {
+      "pair": "SOLUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T15:28:33.438007"
+    },
+    {
+      "pair": "SOLUSDm",
+      "success": true,
+      "confidence": 0.6203526278918637,
+      "source": "backtest",
+      "timestamp": "2025-11-09T15:34:34.396299"
+    },
+    {
+      "pair": "SOLUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T15:34:34.439890"
+    },
+    {
+      "pair": "SOLUSDm",
+      "success": true,
+      "confidence": 0.6480908699376212,
+      "source": "backtest",
+      "timestamp": "2025-11-09T15:35:38.204359"
+    },
+    {
+      "pair": "SOLUSDm",
+      "success": false,
+      "confidence": 0.5552,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T15:35:38.232692"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.5746755871213112,
+      "source": "backtest",
+      "timestamp": "2025-11-09T15:45:02.315234"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.3783,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T15:45:02.364830"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": false,
+      "confidence": 0.5811382859161422,
+      "source": "backtest",
+      "timestamp": "2025-11-09T15:49:35.937304"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T15:49:36.022066"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": true,
+      "confidence": 0.5957478329470232,
+      "source": "backtest",
+      "timestamp": "2025-11-09T15:50:28.695168"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": false,
+      "confidence": 0.3613,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T15:50:28.853684"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.6041222824134559,
+      "source": "backtest",
+      "timestamp": "2025-11-09T16:11:07.869751"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.8596,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T16:11:07.945273"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.604624519878838,
+      "source": "backtest",
+      "timestamp": "2025-11-09T16:12:49.195488"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.8816,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T16:12:49.249884"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.6026573914393313,
+      "source": "backtest",
+      "timestamp": "2025-11-09T16:47:24.225759"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.9144,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T16:47:24.256901"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.6050505169287512,
+      "source": "backtest",
+      "timestamp": "2025-11-09T16:50:02.043253"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.99,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T16:50:02.151102"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.6051460089562596,
+      "source": "backtest",
+      "timestamp": "2025-11-09T16:59:43.723707"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T16:59:43.835301"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.605124839663795,
+      "source": "backtest",
+      "timestamp": "2025-11-09T17:18:41.473251"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T17:18:41.558519"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.6051036347396738,
+      "source": "backtest",
+      "timestamp": "2025-11-09T17:26:37.436927"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T17:26:37.463831"
+    },
+    {
+      "pair": "BTCTHBm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-09T17:59:54.259231"
+    },
+    {
+      "pair": "BTCTHBm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T17:59:54.406043"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.7177586463898259,
+      "source": "backtest",
+      "timestamp": "2025-11-09T18:04:09.058322"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T18:04:09.088845"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.7177508028485979,
+      "source": "backtest",
+      "timestamp": "2025-11-09T18:10:55.012684"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T18:10:55.041658"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.7171524840003654,
+      "source": "backtest",
+      "timestamp": "2025-11-09T18:51:39.943173"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T18:51:39.971867"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.7171524840003654,
+      "source": "backtest",
+      "timestamp": "2025-11-09T18:53:55.531442"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T18:53:55.655750"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": false,
+      "confidence": 0.5748418538434928,
+      "source": "backtest",
+      "timestamp": "2025-11-09T19:00:15.801399"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T19:00:15.829094"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": false,
+      "confidence": 0.5748418538434928,
+      "source": "backtest",
+      "timestamp": "2025-11-09T19:02:03.646863"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T19:02:03.687837"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.6016618389141326,
+      "source": "backtest",
+      "timestamp": "2025-11-09T20:20:01.366624"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.9756,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T20:20:01.526800"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": false,
+      "confidence": 0.6020692458241304,
+      "source": "backtest",
+      "timestamp": "2025-11-09T20:20:58.306352"
+    },
+    {
+      "pair": "BTCXAUm",
+      "success": true,
+      "confidence": 0.99,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T20:20:58.337354"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": false,
+      "confidence": 0.5724264221182942,
+      "source": "backtest",
+      "timestamp": "2025-11-09T20:36:22.142116"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": true,
+      "confidence": 0.9809,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T20:36:22.171291"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": false,
+      "confidence": 0.5421449176468055,
+      "source": "backtest",
+      "timestamp": "2025-11-09T22:19:23.695519"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": true,
+      "confidence": 0.5356,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T22:19:24.344461"
+    },
+    {
+      "pair": "GBPUSDm",
+      "success": false,
+      "confidence": 0.5685762218652609,
+      "source": "backtest",
+      "timestamp": "2025-11-09T22:23:25.775200"
+    },
+    {
+      "pair": "GBPUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T22:23:26.233933"
+    },
+    {
+      "pair": "GBPJPYm",
+      "success": true,
+      "confidence": 0.6135613542738683,
+      "source": "backtest",
+      "timestamp": "2025-11-09T22:41:35.797160"
+    },
+    {
+      "pair": "GBPJPYm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T22:41:35.923089"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": true,
+      "confidence": 0.6502867686339064,
+      "source": "backtest",
+      "timestamp": "2025-11-09T22:42:53.632153"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T22:42:53.747919"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.60455866219144,
+      "source": "backtest",
+      "timestamp": "2025-11-09T22:43:34.977110"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T22:43:35.054161"
+    },
+    {
+      "pair": "BNBUSDm",
+      "success": true,
+      "confidence": 0.6610121325807979,
+      "source": "backtest",
+      "timestamp": "2025-11-09T22:52:20.717959"
+    },
+    {
+      "pair": "BNBUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T22:52:20.817505"
+    },
+    {
+      "pair": "AUDCHFm",
+      "success": false,
+      "confidence": 0.5561398723343347,
+      "source": "backtest",
+      "timestamp": "2025-11-09T22:54:50.515871"
+    },
+    {
+      "pair": "AUDCHFm",
+      "success": false,
+      "confidence": 0.9358,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T22:54:50.630671"
+    },
+    {
+      "pair": "USTECm",
+      "success": true,
+      "confidence": 0.6376042304845793,
+      "source": "backtest",
+      "timestamp": "2025-11-09T23:02:30.567921"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.9313,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T23:02:30.595736"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.5564068382176186,
+      "source": "backtest",
+      "timestamp": "2025-11-09T23:04:42.021946"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.2035,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T23:04:42.049812"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.5938531874344358,
+      "source": "backtest",
+      "timestamp": "2025-11-09T23:07:18.192266"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.5411,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T23:07:18.241991"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.590930257117455,
+      "source": "backtest",
+      "timestamp": "2025-11-09T23:08:45.854024"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.7298,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T23:08:45.881972"
+    },
+    {
+      "pair": "JP225m",
+      "success": true,
+      "confidence": 0.6954374274597173,
+      "source": "backtest",
+      "timestamp": "2025-11-09T23:11:36.422977"
+    },
+    {
+      "pair": "JP225m",
+      "success": false,
+      "confidence": 0.6463,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T23:11:36.725583"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.5735914762159714,
+      "source": "backtest",
+      "timestamp": "2025-11-09T23:13:30.749391"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.5813,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T23:13:30.777643"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": true,
+      "confidence": 0.6196176856478031,
+      "source": "backtest",
+      "timestamp": "2025-11-09T23:14:42.297300"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.8872,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T23:14:42.336662"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.5735871998746435,
+      "source": "backtest",
+      "timestamp": "2025-11-09T23:33:48.659671"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.5173,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T23:33:48.728622"
+    },
+    {
+      "pair": "USOILm",
+      "success": true,
+      "confidence": 0.5987931429885573,
+      "source": "backtest",
+      "timestamp": "2025-11-09T23:46:09.814723"
+    },
+    {
+      "pair": "USOILm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T23:46:10.051811"
+    },
+    {
+      "pair": "USOILm",
+      "success": false,
+      "confidence": 0.5673120043100119,
+      "source": "backtest",
+      "timestamp": "2025-11-09T23:46:56.454882"
+    },
+    {
+      "pair": "USOILm",
+      "success": true,
+      "confidence": 0.6712,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T23:46:56.587937"
+    },
+    {
+      "pair": "HK50m",
+      "success": true,
+      "confidence": 0.615620746336308,
+      "source": "backtest",
+      "timestamp": "2025-11-09T23:54:05.998619"
+    },
+    {
+      "pair": "HK50m",
+      "success": false,
+      "confidence": 0.4011,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T23:54:06.132705"
+    },
+    {
+      "pair": "HK50m",
+      "success": false,
+      "confidence": 0.48366913486592156,
+      "source": "backtest",
+      "timestamp": "2025-11-09T23:59:01.704902"
+    },
+    {
+      "pair": "HK50m",
+      "success": false,
+      "confidence": 0.4391,
+      "source": "forward_test",
+      "timestamp": "2025-11-09T23:59:01.806143"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.580938293017282,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:11:19.267087"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.918,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:11:19.323534"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.64140246780166,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:15:55.019729"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.6868,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:15:55.048086"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.5933833973343681,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:20:07.637492"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.4336,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:20:07.712845"
+    },
+    {
+      "pair": "UK100m",
+      "success": true,
+      "confidence": 0.6432490114829067,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:27:15.548133"
+    },
+    {
+      "pair": "UK100m",
+      "success": true,
+      "confidence": 0.9288,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:27:15.579429"
+    },
+    {
+      "pair": "UK100m",
+      "success": false,
+      "confidence": 0.5255567025991644,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:33:02.596890"
+    },
+    {
+      "pair": "UK100m",
+      "success": false,
+      "confidence": 0.2159,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:33:02.628907"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.5644156348096624,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:35:14.293629"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.9254,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:35:14.323654"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.5905001396886681,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:36:53.335146"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.2816,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:36:53.365793"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.5763232929698825,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:37:40.006600"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.8944,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:37:40.038736"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": false,
+      "confidence": 0.38856966666312664,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:40:08.962659"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": false,
+      "confidence": 0.5241,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:40:08.991935"
+    },
+    {
+      "pair": "US500_x100m",
+      "success": false,
+      "confidence": 0.5905001396886681,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:41:32.940291"
+    },
+    {
+      "pair": "US500_x100m",
+      "success": false,
+      "confidence": 0.2113,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:41:33.024444"
+    },
+    {
+      "pair": "US500_x100m",
+      "success": false,
+      "confidence": 0.5763232929698825,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:42:19.084149"
+    },
+    {
+      "pair": "US500_x100m",
+      "success": false,
+      "confidence": 0.8948,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:42:19.113681"
+    },
+    {
+      "pair": "XAUEURm",
+      "success": true,
+      "confidence": 0.6600452650708113,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:43:20.855533"
+    },
+    {
+      "pair": "XAUEURm",
+      "success": true,
+      "confidence": 0.6369,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:43:20.933303"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": true,
+      "confidence": 0.6723506114097654,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:44:41.567263"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": false,
+      "confidence": 0.474,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:44:41.619717"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.4492759971413032,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:47:25.358118"
+    },
+    {
+      "pair": "AUS200m",
+      "success": true,
+      "confidence": 0.7186,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:47:25.388758"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.5565727057502011,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:49:48.766260"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:49:48.950959"
+    },
+    {
+      "pair": "FR40m",
+      "success": true,
+      "confidence": 0.6380597809783229,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:52:21.468046"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.9325,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:52:21.534489"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-10T00:59:11.229658"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T00:59:11.372267"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.6089483259081657,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:14:40.096381"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:14:40.547730"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.5944019557645888,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:15:52.910869"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:15:53.087924"
+    },
+    {
+      "pair": "DE30m",
+      "success": true,
+      "confidence": 0.6924857721567818,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:17:54.379281"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:17:54.463028"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.573166741854075,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:19:58.244507"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:19:58.277165"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.6003904712023813,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:20:43.054610"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:20:43.087382"
+    },
+    {
+      "pair": "USTECm",
+      "success": true,
+      "confidence": 0.6055612435207118,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:22:43.921385"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:22:43.952395"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": true,
+      "confidence": 0.6055612435207118,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:25:00.086961"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:25:00.145396"
+    },
+    {
+      "pair": "USOILm",
+      "success": false,
+      "confidence": 0.536092187471088,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:25:53.371428"
+    },
+    {
+      "pair": "USOILm",
+      "success": false,
+      "confidence": 0.306,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:25:53.402083"
+    },
+    {
+      "pair": "JP225m",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:27:58.057354"
+    },
+    {
+      "pair": "JP225m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:27:58.103902"
+    },
+    {
+      "pair": "HK50m",
+      "success": true,
+      "confidence": 0.69134795711958,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:30:15.817480"
+    },
+    {
+      "pair": "HK50m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:30:15.850748"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": true,
+      "confidence": 0.6429169148468629,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:31:20.147716"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:31:20.228093"
+    },
+    {
+      "pair": "US500_x100m",
+      "success": true,
+      "confidence": 0.6099409381285996,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:33:04.385264"
+    },
+    {
+      "pair": "US500_x100m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:33:04.472482"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.5881229075785224,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:34:17.773149"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": true,
+      "confidence": 0.788,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:34:17.806829"
+    },
+    {
+      "pair": "GBPUSDm",
+      "success": false,
+      "confidence": 0.6065726935089708,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:35:11.294578"
+    },
+    {
+      "pair": "GBPUSDm",
+      "success": true,
+      "confidence": 0.9047,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:35:11.371601"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": false,
+      "confidence": 0.5529488750919859,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:36:12.463492"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:36:12.497207"
+    },
+    {
+      "pair": "GBPAUDm",
+      "success": false,
+      "confidence": 0.5278375140256746,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:37:30.115705"
+    },
+    {
+      "pair": "GBPAUDm",
+      "success": false,
+      "confidence": 0.9158,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:37:30.192442"
+    },
+    {
+      "pair": "AUDCADm",
+      "success": false,
+      "confidence": 0.6096248600461359,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:38:19.604604"
+    },
+    {
+      "pair": "AUDCADm",
+      "success": true,
+      "confidence": 0.5344,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:38:19.663491"
+    },
+    {
+      "pair": "GBPJPYm",
+      "success": false,
+      "confidence": 0.5617309353519784,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:39:33.085862"
+    },
+    {
+      "pair": "GBPJPYm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:39:33.124816"
+    },
+    {
+      "pair": "USDCADm",
+      "success": false,
+      "confidence": 0.6018176616320942,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:40:49.604722"
+    },
+    {
+      "pair": "USDCADm",
+      "success": false,
+      "confidence": 0.99,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:40:49.637598"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.5929625189241888,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:43:33.248095"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:43:33.299008"
+    },
+    {
+      "pair": "NZDJPYm",
+      "success": false,
+      "confidence": 0.5699787938694869,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:45:12.514506"
+    },
+    {
+      "pair": "NZDJPYm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:45:12.546562"
+    },
+    {
+      "pair": "CADJPYm",
+      "success": true,
+      "confidence": 0.5896236589647504,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:46:20.052942"
+    },
+    {
+      "pair": "CADJPYm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:46:20.088666"
+    },
+    {
+      "pair": "EURGBPm",
+      "success": false,
+      "confidence": 0.6027463112257557,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:47:31.638195"
+    },
+    {
+      "pair": "EURGBPm",
+      "success": false,
+      "confidence": 0.8701,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:47:31.762441"
+    },
+    {
+      "pair": "AUDJPYm",
+      "success": false,
+      "confidence": 0.545862874210167,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:48:43.599992"
+    },
+    {
+      "pair": "AUDJPYm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:48:43.633406"
+    },
+    {
+      "pair": "GBPNZDm",
+      "success": false,
+      "confidence": 0.523555922739642,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:52:01.873916"
+    },
+    {
+      "pair": "GBPNZDm",
+      "success": false,
+      "confidence": 0.5729,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:52:01.975905"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.4715814128362291,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:54:11.597199"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:54:11.650764"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-10T09:56:22.067356"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T09:56:22.100006"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.7609663202764378,
+      "source": "backtest",
+      "timestamp": "2025-11-10T23:37:59.459478"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2763,
+      "source": "forward_test",
+      "timestamp": "2025-11-10T23:37:59.828864"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.5981294060526664,
+      "source": "backtest",
+      "timestamp": "2025-11-11T10:33:00.116688"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T10:33:01.120896"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.5444194524352428,
+      "source": "backtest",
+      "timestamp": "2025-11-11T10:35:03.529865"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T10:35:03.561185"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.5794821879155714,
+      "source": "backtest",
+      "timestamp": "2025-11-11T10:36:31.781368"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T10:36:31.813991"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.5585204851461146,
+      "source": "backtest",
+      "timestamp": "2025-11-11T10:37:28.453218"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T10:37:28.487382"
+    },
+    {
+      "pair": "JP225m",
+      "success": true,
+      "confidence": 0.6983488081039606,
+      "source": "backtest",
+      "timestamp": "2025-11-11T10:40:40.300826"
+    },
+    {
+      "pair": "JP225m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T10:40:40.334487"
+    },
+    {
+      "pair": "FR40m",
+      "success": true,
+      "confidence": 0.6303768666814457,
+      "source": "backtest",
+      "timestamp": "2025-11-11T10:42:56.092903"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T10:42:56.127773"
+    },
+    {
+      "pair": "USOILm",
+      "success": false,
+      "confidence": 0.5746039176330726,
+      "source": "backtest",
+      "timestamp": "2025-11-11T10:44:37.346576"
+    },
+    {
+      "pair": "USOILm",
+      "success": true,
+      "confidence": 0.6279,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T10:44:37.379662"
+    },
+    {
+      "pair": "DE30m",
+      "success": true,
+      "confidence": 0.600536176937979,
+      "source": "backtest",
+      "timestamp": "2025-11-11T10:46:45.778643"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T10:46:45.917688"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": true,
+      "confidence": 0.6336245388427102,
+      "source": "backtest",
+      "timestamp": "2025-11-11T10:48:18.396247"
+    },
+    {
+      "pair": "BTCXAGm",
+      "success": true,
+      "confidence": 0.8131,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T10:48:18.455777"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": true,
+      "confidence": 0.6554556359973832,
+      "source": "backtest",
+      "timestamp": "2025-11-11T10:50:10.298608"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T10:50:10.331417"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": true,
+      "confidence": 0.640635138149079,
+      "source": "backtest",
+      "timestamp": "2025-11-11T10:51:25.776556"
+    },
+    {
+      "pair": "XAUAUDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T10:51:25.810293"
+    },
+    {
+      "pair": "XAGUSDm",
+      "success": true,
+      "confidence": 0.6654558377072927,
+      "source": "backtest",
+      "timestamp": "2025-11-11T10:53:14.960857"
+    },
+    {
+      "pair": "XAGUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T10:53:14.996411"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.5825090654369167,
+      "source": "backtest",
+      "timestamp": "2025-11-11T10:56:20.754098"
+    },
+    {
+      "pair": "AUS200m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T10:56:20.787717"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": true,
+      "confidence": 0.6162728288604175,
+      "source": "backtest",
+      "timestamp": "2025-11-11T11:00:53.965825"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T11:00:54.078476"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.4804979449769722,
+      "source": "backtest",
+      "timestamp": "2025-11-11T11:03:14.254693"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T11:03:14.289263"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": false,
+      "confidence": 0.4804979449769722,
+      "source": "backtest",
+      "timestamp": "2025-11-11T11:05:47.959370"
+    },
+    {
+      "pair": "USTEC_x100m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T11:05:47.993421"
+    },
+    {
+      "pair": "XAUGBPm",
+      "success": true,
+      "confidence": 0.6072402353629142,
+      "source": "backtest",
+      "timestamp": "2025-11-11T11:08:45.183113"
+    },
+    {
+      "pair": "XAUGBPm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T11:08:45.218043"
+    },
+    {
+      "pair": "HK50m",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-11T11:11:33.586031"
+    },
+    {
+      "pair": "HK50m",
+      "success": true,
+      "confidence": 0.99,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T11:11:33.620006"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.6464070398139523,
+      "source": "backtest",
+      "timestamp": "2025-11-11T23:53:46.168594"
+    },
+    {
+      "pair": "US30m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T23:53:46.331270"
+    },
+    {
+      "pair": "US500m",
+      "success": true,
+      "confidence": 0.6891568309958181,
+      "source": "backtest",
+      "timestamp": "2025-11-11T23:54:43.110157"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.3569,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T23:54:43.194300"
+    },
+    {
+      "pair": "DE30m",
+      "success": true,
+      "confidence": 0.675811297468884,
+      "source": "backtest",
+      "timestamp": "2025-11-11T23:57:45.557131"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-11T23:57:45.645707"
+    },
+    {
+      "pair": "DE30m",
+      "success": true,
+      "confidence": 0.6758047939319785,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:00:15.967724"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:00:16.052767"
+    },
+    {
+      "pair": "USTECm",
+      "success": true,
+      "confidence": 0.6867176505523158,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:02:47.755135"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.4267,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:02:47.843317"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:05:00.169615"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.4746,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:05:00.249054"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.5750643191052691,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:07:49.712211"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.849,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:07:49.796433"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.5290248308366193,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:09:42.946977"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.2344,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:09:43.034506"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.5290248308366193,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:10:45.274024"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.2391,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:10:45.359707"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.5290249829159801,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:12:20.614828"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.2474,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:12:20.767695"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": false,
+      "confidence": 0.5718381416930589,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:13:30.698807"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": true,
+      "confidence": 0.5167,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:13:30.778837"
+    },
+    {
+      "pair": "DE30m",
+      "success": true,
+      "confidence": 0.6758439579066335,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:15:49.590056"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:15:49.673052"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:17:57.650284"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.5088,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:17:57.791402"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:24:56.540079"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2963,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:24:56.621709"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.6173079479520995,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:27:52.397999"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:27:52.484012"
+    },
+    {
+      "pair": "AUDCADm",
+      "success": false,
+      "confidence": 0.6087069387036955,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:30:38.487428"
+    },
+    {
+      "pair": "AUDCADm",
+      "success": false,
+      "confidence": 0.31,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:30:38.567467"
+    },
+    {
+      "pair": "NZDJPYm",
+      "success": false,
+      "confidence": 0.5689703637078615,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:33:16.858281"
+    },
+    {
+      "pair": "NZDJPYm",
+      "success": false,
+      "confidence": 0.374,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:33:16.939269"
+    },
+    {
+      "pair": "NZDJPYm",
+      "success": true,
+      "confidence": 0.6343461416592042,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:34:58.498978"
+    },
+    {
+      "pair": "NZDJPYm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:34:58.580264"
+    },
+    {
+      "pair": "GBPUSDm",
+      "success": true,
+      "confidence": 0.6491319430018022,
+      "source": "backtest",
+      "timestamp": "2025-11-12T00:59:09.443952"
+    },
+    {
+      "pair": "GBPUSDm",
+      "success": true,
+      "confidence": 0.5178,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T00:59:09.631281"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.6244132197914929,
+      "source": "backtest",
+      "timestamp": "2025-11-12T10:27:09.007864"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T10:27:25.878196"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.6106939736060637,
+      "source": "backtest",
+      "timestamp": "2025-11-12T10:29:56.201499"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T10:29:56.289509"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.5479561920242535,
+      "source": "backtest",
+      "timestamp": "2025-11-12T10:32:08.777702"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T10:32:08.906810"
+    },
+    {
+      "pair": "XAGUSDm",
+      "success": true,
+      "confidence": 0.6168281014541017,
+      "source": "backtest",
+      "timestamp": "2025-11-12T10:33:29.876051"
+    },
+    {
+      "pair": "XAGUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T10:33:29.975570"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-12T11:27:05.420381"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T11:27:05.495524"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-12T11:37:13.765987"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T11:37:13.847782"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.6093794488889769,
+      "source": "backtest",
+      "timestamp": "2025-11-12T11:43:44.481053"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.99,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T11:43:44.597318"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.5642047533836226,
+      "source": "backtest",
+      "timestamp": "2025-11-12T12:01:40.804361"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T12:01:41.000439"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.6138132593274747,
+      "source": "backtest",
+      "timestamp": "2025-11-12T12:02:51.413334"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.5838,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T12:02:51.544163"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.5479343188345241,
+      "source": "backtest",
+      "timestamp": "2025-11-12T12:13:26.077894"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T12:13:26.251218"
+    },
+    {
+      "pair": "DE30m",
+      "success": true,
+      "confidence": 0.6719887635250947,
+      "source": "backtest",
+      "timestamp": "2025-11-12T12:19:29.950462"
+    },
+    {
+      "pair": "DE30m",
+      "success": true,
+      "confidence": 0.9384,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T12:19:30.064183"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.6233848712509094,
+      "source": "backtest",
+      "timestamp": "2025-11-12T17:13:36.541883"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T17:13:36.632711"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.7121317720180446,
+      "source": "backtest",
+      "timestamp": "2025-11-12T17:16:56.213057"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.99,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T17:16:56.268516"
+    },
+    {
+      "pair": "US500m",
+      "success": true,
+      "confidence": 0.6949887545931036,
+      "source": "backtest",
+      "timestamp": "2025-11-12T17:17:54.716022"
+    },
+    {
+      "pair": "US500m",
+      "success": false,
+      "confidence": 0.9433,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T17:17:54.800499"
+    },
+    {
+      "pair": "DE30m",
+      "success": true,
+      "confidence": 0.7198705993337767,
+      "source": "backtest",
+      "timestamp": "2025-11-12T17:19:55.146625"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.6289,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T17:19:55.234253"
+    },
+    {
+      "pair": "DE30m",
+      "success": true,
+      "confidence": 0.719870558615392,
+      "source": "backtest",
+      "timestamp": "2025-11-12T17:24:13.474870"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.6399,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T17:24:13.513407"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.617474984665836,
+      "source": "backtest",
+      "timestamp": "2025-11-12T17:28:02.858408"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.9826,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T17:28:02.967108"
+    },
+    {
+      "pair": "FR40m",
+      "success": true,
+      "confidence": 0.6353461954774408,
+      "source": "backtest",
+      "timestamp": "2025-11-12T17:29:05.427022"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.7654,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T17:29:05.465903"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": true,
+      "confidence": 0.6419899325344278,
+      "source": "backtest",
+      "timestamp": "2025-11-12T17:30:32.173594"
+    },
+    {
+      "pair": "STOXX50m",
+      "success": false,
+      "confidence": 0.8017,
+      "source": "forward_test",
+      "timestamp": "2025-11-12T17:30:32.257748"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-14T13:48:22.800378"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.99,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T13:48:24.257662"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.541816630782607,
+      "source": "backtest",
+      "timestamp": "2025-11-14T13:52:09.640856"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.8543,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T13:52:09.913921"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.5418118753515454,
+      "source": "backtest",
+      "timestamp": "2025-11-14T13:54:38.068670"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.8563,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T13:54:38.149318"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.6307160170500361,
+      "source": "backtest",
+      "timestamp": "2025-11-14T13:56:29.928521"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.9575,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T13:56:30.065626"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.526365860974763,
+      "source": "backtest",
+      "timestamp": "2025-11-14T13:59:19.779626"
+    },
+    {
+      "pair": "FR40m",
+      "success": false,
+      "confidence": 0.9459,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T13:59:19.898650"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.5835679998394048,
+      "source": "backtest",
+      "timestamp": "2025-11-14T14:08:14.146291"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T14:08:14.214902"
+    },
+    {
+      "pair": "GBPUSDm",
+      "success": true,
+      "confidence": 0.6148814498783237,
+      "source": "backtest",
+      "timestamp": "2025-11-14T14:13:47.446535"
+    },
+    {
+      "pair": "GBPUSDm",
+      "success": false,
+      "confidence": 0.2944,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T14:13:47.555620"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": false,
+      "confidence": 0.5755894760232149,
+      "source": "backtest",
+      "timestamp": "2025-11-14T14:20:32.088985"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": false,
+      "confidence": 0.976,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T14:20:32.158583"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.4395328770588703,
+      "source": "backtest",
+      "timestamp": "2025-11-14T14:25:20.854762"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.9763,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T14:25:20.929861"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.4395328770588703,
+      "source": "backtest",
+      "timestamp": "2025-11-14T14:27:30.524858"
+    },
+    {
+      "pair": "DE30m",
+      "success": false,
+      "confidence": 0.9749,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T14:27:30.592200"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.6204310937877807,
+      "source": "backtest",
+      "timestamp": "2025-11-14T15:18:51.974101"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.9712,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T15:18:52.272575"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.6205574946901516,
+      "source": "backtest",
+      "timestamp": "2025-11-14T15:19:40.802306"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": false,
+      "confidence": 0.97,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T15:19:40.914382"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.6106251527059691,
+      "source": "backtest",
+      "timestamp": "2025-11-14T15:23:30.392153"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.9365,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T15:23:30.510381"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-14T21:20:12.742261"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": true,
+      "confidence": 0.8555,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T21:20:13.139982"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.5842452327436166,
+      "source": "backtest",
+      "timestamp": "2025-11-14T21:24:03.496416"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": true,
+      "confidence": 0.3048,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T21:24:03.836971"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.6283638712308687,
+      "source": "backtest",
+      "timestamp": "2025-11-14T21:27:25.784188"
+    },
+    {
+      "pair": "XAUUSDm",
+      "success": true,
+      "confidence": 0.9881,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T21:27:26.227122"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.6304849139736183,
+      "source": "backtest",
+      "timestamp": "2025-11-14T21:28:23.073314"
+    },
+    {
+      "pair": "US30m",
+      "success": true,
+      "confidence": 0.7646,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T21:28:23.227365"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.5840372390455715,
+      "source": "backtest",
+      "timestamp": "2025-11-14T21:29:55.673894"
+    },
+    {
+      "pair": "EURUSDm",
+      "success": false,
+      "confidence": 0.82,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T21:29:55.756886"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": false,
+      "confidence": 0.39585000000000004,
+      "source": "backtest",
+      "timestamp": "2025-11-14T21:31:55.645213"
+    },
+    {
+      "pair": "USDJPYm",
+      "success": false,
+      "confidence": 0.5314,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T21:31:55.809106"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.47743898103555527,
+      "source": "backtest",
+      "timestamp": "2025-11-14T21:34:18.615371"
+    },
+    {
+      "pair": "USTECm",
+      "success": false,
+      "confidence": 0.2,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T21:34:18.746016"
+    },
+    {
+      "pair": "BTCXAG",
+      "success": true,
+      "confidence": 0.6320291408753701,
+      "source": "backtest",
+      "timestamp": "2025-11-14T21:54:48.014663"
+    },
+    {
+      "pair": "BTCXAG",
+      "success": false,
+      "confidence": 0.8637,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T21:54:48.691748"
+    },
+    {
+      "pair": "BTCXAG",
+      "success": true,
+      "confidence": 0.6320291408753701,
+      "source": "backtest",
+      "timestamp": "2025-11-14T21:55:32.783423"
+    },
+    {
+      "pair": "BTCXAG",
+      "success": false,
+      "confidence": 0.8637,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T21:55:33.007340"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-14T22:01:02.587036"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.9681,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T22:01:02.693732"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-14T22:03:00.753023"
+    },
+    {
+      "pair": "BTCUSDm",
+      "success": false,
+      "confidence": 0.9676,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T22:03:00.826680"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.24999999999999997,
+      "source": "backtest",
+      "timestamp": "2025-11-14T22:05:53.281569"
+    },
+    {
+      "pair": "ETHUSDm",
+      "success": false,
+      "confidence": 0.9472,
+      "source": "forward_test",
+      "timestamp": "2025-11-14T22:05:53.351790"
+    }
+  ],
+  "per_source": {
+    "forward_test": {
+      "n": 243,
+      "wins": 56,
+      "ema_win": 0.2238524806977475,
+      "beta_a": 57.0,
+      "beta_b": 188.0,
+      "brier_sum": 56.337489819999945,
+      "brier_n": 243,
+      "last_outcomes": [
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "backtest": {
+      "n": 242,
+      "wins": 106,
+      "ema_win": 0.4200714449570101,
+      "beta_a": 107.0,
+      "beta_b": 137.0,
+      "brier_sum": 50.486105575348674,
+      "brier_n": 242,
+      "last_outcomes": [
+        true,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "assets": {}
+}

@@ -1,0 +1,29 @@
+{
+  "Predator": {
+    "description": "For strongly trending markets. Prioritizes momentum and Break of Structure.",
+    "analysis_weights": {
+      "chimera": 1.0,
+      "context_engine": 0.5,
+      "analysis_engine": 0.8
+    },
+    "favored_signals": ["BOS", "trend_continuation"]
+  },
+  "Viper": {
+    "description": "For choppy, mean-reverting markets. Fades extremes and hunts liquidity.",
+    "analysis_weights": {
+      "chimera": 0.7,
+      "context_engine": 1.0,
+      "analysis_engine": 0.3
+    },
+    "favored_signals": ["liquidity_sweep", "reversal", "PDH_rejection", "PDL_rejection"]
+  },
+  "Observer": {
+    "description": "For unpredictable, random-walk markets. Prime directive: Preserve Capital.",
+    "analysis_weights": {
+      "chimera": 0.0,
+      "context_engine": 0.0,
+      "analysis_engine": 0.0
+    },
+    "favored_signals": []
+  }
+}
